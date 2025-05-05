@@ -6,20 +6,23 @@ banner:
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Who we are"
+    link: "/about"
 
 # Features
-features:
-  - title: "Who we are"
-    image: "/images/service-1.png"
-    content: "Write your description here."
-    bulletpoints:
-      - "Description 1"
-      - "Description 2"
-      - "Description 3"
-    button:
-      enable: false
-      label: "Go to Introduction"
-      link: "/about"
+# features:
+#   - title: "Activities"
+#     content: "Upcoming Events"
+#     bulletpoints:
+#       - "Description 1"
+#       - "Description 2"
+#       - "Description 3"
+#     content: "Previous Events"
+#     bulletpoints:
+#       - "DD/MM/YYYY"
+#       - "Description 2"
+#       - "Description 3"
 ---
+
+# Activities
+## Upcoming events
