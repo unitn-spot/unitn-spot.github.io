@@ -12,13 +12,18 @@ url = "/about"
 weight = 2
 
 [[main]]
-name = "Blog"
-url = "/blog"
+name = "Activities"
+url = "/activities"
 weight = 3
 
 [[main]]
-name = "Pages"
+name = "Blog"
+url = "/blog"
 weight = 4
+
+[[main]]
+name = "Pages"
+weight = 5
 
 [[main]]
 parent = "Pages"
