@@ -32,11 +32,6 @@ url = "/authors"
 
 [[main]]
 parent = "Pages"
-name = "Elements"
-url = "/elements"
-
-[[main]]
-parent = "Pages"
 name = "Categories"
 url = "/categories"
 
@@ -46,12 +41,7 @@ name = "Contact"
 url = "/contact"
 
 # footer menu
-[[footer]]
-name = "About"
-url = "/about"
-weight = 1
-
-[[footer]]
-name = "Privacy Policy"
-url = "/privacy-policy"
-weight = 2
+# [[footer]]
+# name = "About"
+# url = "/about"
+# weight = 1

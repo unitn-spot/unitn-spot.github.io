@@ -10,18 +10,13 @@ banner:
     link: "/about"
 
 # Features
-# features:
-#   - title: "Activities"
-#     content: "Upcoming Events"
-#     bulletpoints:
-#       - "Description 1"
-#       - "Description 2"
-#       - "Description 3"
-#     content: "Previous Events"
-#     bulletpoints:
-#       - "DD/MM/YYYY"
-#       - "Description 2"
-#       - "Description 3"
+features:
+  - title: "Upcoming Events"
+    content: "Upcoming Events"
+    bulletpoints:
+      - "Description 1"
+      - "Description 2"
+      - "Description 3"
 ---
 
 # Activities
