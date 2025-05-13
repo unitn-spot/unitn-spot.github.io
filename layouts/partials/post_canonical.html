@@ -1,0 +1,22 @@
+{{ if and (.Params.canonicalURL) (.Params.ShowCanonicalLink ) -}}
+{{ $url := urls.Parse .Params.canonicalURL }}
+
+{{- if or .Params.author site.Params.author (.Param "ShowReadingTime") (not .Date.IsZero) .IsTranslated (or .Params.editPost.URL site.Params.editPost.URL) }}&nbsp;|&nbsp;{{- end -}}
+<span>
+    {{- (site.Params.CanonicalLinkText | default .Params.CanonicalLinkText) | default "Originally published at" -}}
+    &nbsp;<a href="{{ trim .Params.canonicalURL " " }}" title="{{ trim .Params.canonicalURL " " }}" target="_blank" rel="noopener noreferrer">{{ $url.Host }}</a>
+</span>
+{{- end }}
+
+</div>
+
+<div class="social-icons" align={{ site.Params.homeInfoParams.AlignSocialIconsTo }}>
+{{- range .Params.Share }}
+<a href="{{ trim .url " " | safeURL }}" target="_blank" rel="noopener noreferrer me"
+    title="{{ (.title | default .name) | title }}">
+    {{ partial "svg.html" . }}
+</a>
+{{- end }}
+</div>
+
+<div>
