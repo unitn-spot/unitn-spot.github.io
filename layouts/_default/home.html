@@ -15,7 +15,13 @@
 
 {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
 {{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true"  }}
-{{- $pages = where $pages "Date" "gt" now }}
+{{- $futurepages := where $pages "Date" "gt" now }}
+
+{{- if eq (len $futurepages) 0 }}
+  {{- $pages = first 1 $pages }}
+{{- else }}
+  {{- $pages = $futurepages }}
+{{- end }}
 
 {{- $paginator := .Paginate $pages }}
 
