@@ -2,14 +2,13 @@
 title = "Student of Photonics - unitn"
 
 [cover]
-image = "images/banner.png"
-alt = "banner"
+image = "images/logo.png"
+alt = "Logo of SPIE Student Chapter of University of Trento"
 relative = true
 +++
 
-# Students of Photonics 
+# Students of Photonics - unitn
 
-![](images/logo.png)
+## University of Trento
 
-## StuPhos
-
+[students-of-photonics@unitn.it](mailto:students-of-photonics@unitn.it)

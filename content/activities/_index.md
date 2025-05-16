@@ -2,7 +2,7 @@
 title = "Activities"
 menu = "main"
 layout = "archives"
-summary = "archives"
+summary = "Recent Activities"
 +++
 
-Recent activities of Photonics Student Chapter in University of Trento.
+Recent activities of Students of Photonics - unitn.
