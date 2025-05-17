@@ -4,14 +4,14 @@ date = "2025-05-28T12:00:00Z"
 pubdate = "2025-05-16T12:00:00Z"
 draft = false
 
-# [cover]
-# image = "https://lh3.googleusercontent.com/d/1wvOcvMerUS92gDxPcL5g0dvOSwxrNXfm=s1920"
-# alt = "Poster for International Day of Light"
-# relative = false
-#
-# [[Share]]
-# name = "instagram"
-# url = "https://www.instagram.com/spieunitn/p/DJZTgDuIQQS"
+[cover]
+image = "https://lh3.googleusercontent.com/d/150028T11UdW97iPHPGpacE-i9aQauYyq=s1920"
+alt = "Poster for Talk Nerdy to Me: PhD Speed-Dating"
+relative = false
+
+[[Share]]
+name = "instagram"
+url = "https://www.instagram.com/spieunitn/p/DJuBiYAItqh/"
 +++
 
 We are excited to announce that the SPIE Student Chapter is organizing a special event to connect PhD students and Master’s students through short, engaging research presentations!

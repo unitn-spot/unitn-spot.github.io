@@ -50,3 +50,8 @@ url = "https://www.instagram.com/spieunitn/"
 name = "youtube"
 title = "Youtube Channel"
 url = "https://www.youtube.com/@trentospiestudentchapter5644/"
+
+[[params.socialIcons]]
+name = "facebook"
+title = "Facebook Page"
+url = "https://www.facebook.com/profile.php?id=100083412673552"
