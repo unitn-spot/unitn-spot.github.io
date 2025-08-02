@@ -9,9 +9,16 @@ alt = "The old guys if StuPhos"
 relative = false
 +++
 
-Welcome to the University of Trento SPIE Student Chapter:  
-**Exploring the Science of Light** -- Photonics, Optics, and Beyond
+Welcome to the website of the Students of Photonics - unitn!
 
-The SPIE Student Chapter at the University of Trento is part of the global SPIE network -- an international society committed to the advancement of light-based technologies. Our mission is **to promote the understanding, development, and application of photonics and optics** through academic engagement, hands-on experience, and professional collaboration.
+We are a group of passionate Bachelor, Master and PhD students from University of Trento and Fondazione Bruno Kessler, interested in Optics and Photonics. 
+We gather in this student group (or chapter) to discuss scientific and technological research and to organize events and activities.
 
-We bring together students, researchers, and industry professionals to explore cutting-edge innovations, share knowledge, and inspire future leaders in the science of light. Whether you're passionate about lasers, imaging, fiber optics, or quantum technologies, **our chapter offers a vibrant community and valuable opportunities to grow.**
+## What is photonics?
+
+Photonics is the name used nowadays to refer to the discipline related to the generation, manipulation and detections of light (and hence, photons). 
+It is common to refer also to Optics & Photonics.
+On top of this, it interlaces with many other fields, such as solid-state and semiconductor physics, nanofabrication, and information technology.
+So Lasers, photodiodes, Detectors, Amplifiers, quantum fluids of light, electro-optical modulators, quantum optical computing… all fall under these umbrellas.
+
+As the miniaturization level increases, photonics continues to acquire importance and give birth to fantastic research.
