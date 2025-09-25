@@ -1,7 +1,7 @@
 +++
 title = "FOTONICA: Esperienza Spettacolore"
-date = "2025-05-28T12:00:00Z"
-pubdate = "2025-05-16T12:00:00Z"
+date = "2025-09-26T12:00:00Z"
+pubdate = "2025-09-20T12:00:00Z"
 draft = false
 
 [cover]
