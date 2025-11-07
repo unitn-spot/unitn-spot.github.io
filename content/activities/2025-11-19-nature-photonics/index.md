@@ -22,6 +22,10 @@ Join us for an exclusive talk with Oliver Graydon, Chief Editor of Nature Photon
 🕠 Time: 5:30 PM  
 📍 Location: Room A205, Polo Ferrari 1 – Università di Trento  
 
+📘 Program:
+- 10-minute introductory presentation by Oliver Graydon
+- Q&A session with students and researchers
+
 Don’t miss this opportunity to learn what it takes to publish in top-tier journals!
 
 🔬 Organized by SPIE Student Chapter – University of Trento
