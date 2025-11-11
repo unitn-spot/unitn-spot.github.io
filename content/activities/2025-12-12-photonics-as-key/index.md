@@ -5,7 +5,6 @@ pubdate = "2025-11-02T12:00:00Z"
 draft = false
 
 [cover]
-# Logo!
 image = "logo-photonics.png"
 alt = "Photonics as a Key Enabling Technology"
 relative = true
