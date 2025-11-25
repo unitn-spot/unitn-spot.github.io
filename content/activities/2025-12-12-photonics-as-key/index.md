@@ -11,7 +11,7 @@ relative = true
 
 [[Share]]
 name = "instagram"
-url = "https://www.instagram.com/p/DReYkwgDta0"
+url = "https://www.instagram.com/p/DRebP3ejpFr"
 +++
 
 
@@ -32,7 +32,7 @@ UniTrento Alumni share their career path: have a chat, get inspired, and discove
 
 ### 15:00 Opening remarks
 
-### 15:10 Tatevik Chalyan, University of Brussels, Belgium
+### 15:10 Tatevik Chalyan, Vrije Universiteit Brussel, Belgium
 Sensing: From bio to quantum and beyond
 
 ### 15:30 Claudio Castellan, Glass to Power, Rovereto
