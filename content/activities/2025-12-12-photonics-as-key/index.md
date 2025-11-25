@@ -1,36 +1,52 @@
 +++
 title = "Photonics as a Key Enabling Technology"
-date = "2025-12-12T12:00:00Z"
+date = "2025-12-12T15:00:00Z"
 pubdate = "2025-11-02T12:00:00Z"
 draft = false
 
 [cover]
-image = "logo-photonics.png"
-alt = "Photonics as a Key Enabling Technology"
+image = "https://lh3.googleusercontent.com/d/1pwKZA9gbH8T42G5QYTKT6PRBIDet9FNb=s1920"
+alt = "Photonics as a Key Enabling Technology: Light up your Future"
 relative = true
+
+[[Share]]
+name = "instagram"
+url = "https://www.instagram.com/p/DReYkwgDta0"
 +++
+
 
 # Light up your Future
 
-Unitrento alumni shared how they turned their studies into real-world careers: discover opportunities, ask questions, and get inspired for your path after university.
+![Photonics as a Key Enabling Technology](logo-photonics.png)
+
+UniTrento Alumni share their career path: have a chat, get inspired, and discover new opportunities after your studies!
 
 📅 Date: 12th December  
-🕠 Time: 3:00 PM  
-📍 Location: Room A109, Polo Ferrari 1 – Università di Trento
+🕠 Time: 15:00 - 17:00 + Aperitif  
+📍 Location: Room A109, Polo Ferrari 1, via Sommarive 9, Povo (TN)  
+☕ Registration for Food: [https://forms.gle/PvaH7zoQQSF37poVA](https://forms.gle/PvaH7zoQQSF37poVA)
 
-## Talks & Speakers
+## Program
 
-### Quantum information processing with color entanglement and integrated optics
-Massimo Borghi, Dipartimento di Fisica, Università di Pavia, Via Agostino Bassi 6, 27100, Pavia, Italy
+![Program](https://lh3.googleusercontent.com/d/1lSXcytE2idXOhIEA4zk8BSSvuMAb0vJs=s1920)
 
-### Through an aesthetic transition: integrating photovoltaics in buildings
-Claudio Castellan, Glass to Power, Rovereto, Trento, Italy
+### 15:00 Opening remarks
 
-### Sensing: From bio to quantum and beyond
-Tatevik Chalyan, B-PHOT, Vrije Universiteit Brussel, Belgium
+### 15:10 Tatevik Chalyan, University of Brussels, Belgium
+Sensing: From bio to quantum and beyond
 
-### Cracking the code: quantum cryptography from basics to breakthrough
-Alessandro Trenti, AIT Austrian Institute of Technology, DSS SCT, Giefinggasse 4, 1210 Vienna, Austria
+### 15:30 Claudio Castellan, Glass to Power, Rovereto
+Through an aesthetic transition: integrating photovoltaics in buildings
 
-### Integrated photonics: miniaturizing technology for maximize the applications
-Chiara Vecchi, GEM elettronica, San Benedetto del Tronto (AP), Italy
+### 15:50 Chiara Vecchi, GEM elettronica, San Benedetto del Tronto
+Integrated photonics: miniaturizing technology to maximize the applications
+
+### 16:10 Coffee break
+
+### 16:20 Alessandro Trenti, Austrian Institute of Technology, Vienna, Austria
+Cracking the code: quantum cryptography from basics to breakthrough
+
+### 16:40 Massimo Borghi, University of Pavia
+Quantum information processing with color entanglement and integrated optics
+
+### 17:00 Aperitif
