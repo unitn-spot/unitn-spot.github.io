@@ -46,7 +46,7 @@ Integrated photonics: miniaturizing technology to maximize the applications
 ### 16:20 Alessandro Trenti, Austrian Institute of Technology, Vienna, Austria
 Cracking the code: quantum cryptography from basics to breakthrough
 
-### 16:40 Massimo Borghi, University of Pavia
-Quantum information processing with color entanglement and integrated optics
+### 16:40 Clara Zaccaria, University of Trento
+Neural interfaces: from networks to single cells
 
 ### 17:00 Aperitif
