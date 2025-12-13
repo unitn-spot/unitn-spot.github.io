@@ -1,6 +1,5 @@
 +++
 title = "Nanoscience Laboratory (NL) Kick-off meeting 2024"
-summary = "Ciao ciao"
 date = "2024-11-27T12:00:00Z"
 categories = []
 tags = []
