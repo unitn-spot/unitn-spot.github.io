@@ -27,7 +27,7 @@ linkFullImages = false
 [params.label]
 text = " "
 icon = "images/logo.png"
-iconHeight = 35
+iconHeight = 75
 
 [params.assets]
 # favicon = "" When we will have a "round" logo place it here!

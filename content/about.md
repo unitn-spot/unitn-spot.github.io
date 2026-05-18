@@ -4,9 +4,14 @@ menu = "main"
 draft = false
 
 [cover]
-image = "https://lh3.googleusercontent.com/d/1dA8V9VFg705IaYHuSMUladQmvtFtQK2u=s1920"
-alt = "The old guys if StuPhos"
+image = "https://lh3.googleusercontent.com/d/1g77Lkk6di2FT1ykdgztGilZAJDkoS3MZ=s1920"
+# https://drive.google.com/file/d/1g77Lkk6di2FT1ykdgztGilZAJDkoS3MZ/view?usp=sharing
+alt = "The Guys at Photonics as Key Enabling Technology: Light up your Future - December 2025"
 relative = false
+
+[[Share]]
+name = "instagram"
+url = "https://www.instagram.com/p/DSpJzbfCBha/"
 +++
 
 Welcome to the website of the Students of Photonics - unitn!
