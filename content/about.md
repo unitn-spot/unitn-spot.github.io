@@ -11,13 +11,15 @@ relative = false
 
 [[Share]]
 name = "instagram"
-url = "https://www.instagram.com/p/DSpJzbfCBha/"
+url = "https://www.instagram.com/stuphos.trento"
 +++
 
 Welcome to the website of the Students of Photonics - unitn!
 
 We are a group of passionate Bachelor, Master and PhD students from University of Trento and Fondazione Bruno Kessler, interested in Optics and Photonics. 
 We gather in this student group (or chapter) to discuss scientific and technological research and to organize events and activities.
+
+If you are interested in joining our group, feel free to contact us!
 
 ## What is photonics?
 

@@ -11,7 +11,7 @@ relative = false
 
 [[Share]]
 name = "instagram"
-url = "https://www.instagram.com/spieunitn/p/DOti-lhjPHC/"
+url = "https://www.instagram.com/p/DOti-lhjPHC/"
 +++
 
 Ti aspettiamo alla Notte della Ricerca al MUSE di Trento 🎉  

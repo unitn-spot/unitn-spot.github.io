@@ -12,7 +12,7 @@ relative = false
 
 [[Share]]
 name = "instagram"
-url = "https://www.instagram.com/spieunitn/p/DC4ROMwIm1x"
+url = "https://www.instagram.com/p/DC4ROMwIm1x"
 +++
 
 EXCITING NEWS 💫

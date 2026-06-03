@@ -11,7 +11,7 @@ relative = false
 
 [[Share]]
 name = "instagram"
-url = "https://www.instagram.com/spieunitn/p/DJuBiYAItqh/"
+url = "https://www.instagram.com/p/DJuBiYAItqh/"
 +++
 
 We are excited to announce that the SPIE Student Chapter is organizing a special event to connect PhD students and Master’s students through short, engaging research presentations!
