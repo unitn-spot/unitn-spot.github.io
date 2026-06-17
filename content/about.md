@@ -16,16 +16,27 @@ url = "https://www.instagram.com/stuphos.trento"
 
 Welcome to the website of the Students of Photonics - unitn!
 
-We are a group of passionate Bachelor, Master and PhD students from University of Trento and Fondazione Bruno Kessler, interested in Optics and Photonics. 
-We gather in this student group (or chapter) to discuss scientific and technological research and to organize events and activities.
+We are a self-organized student group at the University of Trento (**UniTN**), working in close cooperation with the **Nanoscience Laboratory**. Our community brings together passionate Bachelor's, Master's, and PhD students from both the **University of Trento** and **Fondazione Bruno Kessler (FBK)** who are motivated by the world of Optics and Photonics.
 
-If you are interested in joining our group, feel free to contact us!
+Surrounded by the Alpine landscape, our mission is to build a vibrant local hub that bridges cutting-edge academic research with real-world impact. Our history spans over 20 years of active engagement; what began as a dedicated local circle of **SPIE.** members has grown continuously, and today we proudly operate as an official joint student chapter for both **SPIE.** and **OPTICA**.
 
 ## What is photonics?
+Photonics is the modern discipline dedicated to the generation, manipulation, and detection of light (and its fundamental particles, photons). It is very common to see the field referred to under the broader umbrella of Optics & Photonics. 
 
-Photonics is the name used nowadays to refer to the discipline related to the generation, manipulation and detections of light (and hence, photons). 
-It is common to refer also to Optics & Photonics.
-On top of this, it interlaces with many other fields, such as solid-state and semiconductor physics, nanofabrication, and information technology.
-So Lasers, photodiodes, Detectors, Amplifiers, quantum fluids of light, electro-optical modulators, quantum optical computing… all fall under these umbrellas.
+Because light interacts so uniquely with matter, photonics heavily interlaces with many neighboring fields, including:
+* Solid-state and semiconductor physics 
+* Advanced nanofabrication 
+* Information technology and quantum science
 
-As the miniaturization level increases, photonics continues to acquire importance and give birth to fantastic research.
+Whenever you work with lasers, photodiodes, fiber-optic amplifiers, electro-optical modulators, quantum fluids of light, or quantum optical computing architectures—you are working in photonics. As global technology demands higher levels of miniaturization, photonics continues to grow in importance, giving birth to fantastic, boundary-pushing research. 
+
+## What is student chapter?
+A Student Chapter is a localized branch of a major international professional society, operated by university students autonomously. STUPHOS is the official local chapter for **SPIE** (The International Society for Optics and Photonics) and **OPTICA** (formerly OSA). 
+
+Supported by financial grants and resources from these parent organizations, our student chapter serves to:
+* **Foster Leadership**: Give students hands-on experience managing budgets, organizing large-scale initiatives, and leading teams. 
+* **Provide Networking**: Connect our local members in Trento directly to network of scientists, industry pioneers, and global events.
+
+## Which activities are you doing in this group?
+As a chapter, we keep an incredibly active calendar focused on academic growth, industry exploration, and public outreach. Our primary goals are to host technical seminars, run hands-on workshops, coordinate networking trips to industry hubs, and demystify optical sciences for the general public through science communication.
+> 📂 Explore Our Work: For a comprehensive look at our current projects, past events, and upcoming student initiatives, please head over to our dedicated [Activities page](../activities/)

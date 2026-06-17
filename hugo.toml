@@ -2,7 +2,7 @@ baseURL = "https://unitn-spot.github.io"
 
 title = "Students of Photonics - unitn"
 author = "StuPhos"
-copyright = "Copyright © 2025, StuPhos."
+copyright = "Copyright © 2026, StuPhos."
 languageCode = "en-US"
 
 theme = "PaperMod"
@@ -44,7 +44,7 @@ AlignSocialIconsTo = "left"
 [[params.socialIcons]]
 name = "instagram"
 title = "Instagram Page"
-url = "https://www.instagram.com/spieunitn/"
+url = "https://www.instagram.com/stuphos.trento"
 
 [[params.socialIcons]]
 name = "youtube"
