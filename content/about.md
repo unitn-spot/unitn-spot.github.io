@@ -18,7 +18,7 @@ Welcome to the website of the Students of Photonics - unitn!
 
 We are a self-organized student group at the University of Trento (**UniTN**), working in close cooperation with the **Nanoscience Laboratory**. Our community brings together passionate Bachelor's, Master's, and PhD students from both the **University of Trento** and **Fondazione Bruno Kessler (FBK)** who are motivated by the world of Optics and Photonics.
 
-Surrounded by the Alpine landscape, our mission is to build a vibrant local hub that bridges cutting-edge academic research with real-world impact. Our history spans over 20 years of active engagement; what began as a dedicated local circle of **SPIE.** members has grown continuously, and today we proudly operate as an official joint student chapter for both **SPIE.** and **OPTICA**.
+Surrounded by the Alpine landscape, our mission is to build a vibrant local hub that bridges cutting-edge academic research with real-world impact. Our history spans over 10 years of active engagement; what began as a dedicated local circle of **SPIE.** members has grown continuously, and today we proudly operate as an official joint student chapter for both **SPIE.** and **OPTICA**.
 
 ## What is photonics?
 Photonics is the modern discipline dedicated to the generation, manipulation, and detection of light (and its fundamental particles, photons). It is very common to see the field referred to under the broader umbrella of Optics & Photonics. 
