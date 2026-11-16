@@ -1,0 +1,187 @@
+title = "Photonics as a Key Enabling Technology: Birthday Edition"
+date_start = "2026-11-26"
+date_end = "2026-11-27"
+location = "Polo Ferrari 1, Università di Trento, Povo, Trento, Italy"
+
+[[days]]
+day = "Thursday, 26 November 2026"
+date = "2026-11-26"
+room = "Room A109 - Polo Ferrari 1"
+
+  [[days.events]]
+  time = "14:30"
+  title = "Opening remarks"
+
+  [[days.events]]
+  time = "14:45"
+  speaker = "Dipl.Ing. Dr. Georg Pucker"
+  affiliation = """Integrated and Quantum Optics (I&QO)
+Center for Sensors and Devices (FBK-SD)
+Bruno Kessler Foundation (FBK)
+Trento, Italy"""
+  title = "Silicon quantum dots and risotto al teroldego"
+
+  [[days.events]]
+  time = "15:25"
+  speaker = "Dr. Mher Ghulinyan"
+  affiliation = """Integrated and Quantum Optics (I&QO)
+Center for Sensors and Devices (FBK-SD)
+Bruno Kessler Foundation (FBK)
+Trento, Italy"""
+  title = "Porous Silicon Optical Superlattices: Where Photons Behave Like Electrons"
+  abstract = """From conceptualization and design to fabrication and experiments: the years 2002 to 2006 marked a pivotal point in my early career research at the University of Trento under Prof. Pavesi’s supervision. The first-time-ever realization and characterization of porous silicon-based optical superlattices (OSLs), composed by hundreds of submicron-thick layers, paved the way to the first demonstrations of optical analogies of fundamental solid-state phenomena: photonic Bloch oscillations and resonant Zener tunnelling of photons, Anderson localization of light and the observation of optical necklace states, vapor-controlled tilting of photonic bands and all-optical switching using capillary condensation. This research placed the UniTN team within the world’s leading groups in light propagation studies in optical superlattices. On top of this, extreme personal motivation, Sundays and night hours spent in the lab, scientific excitement and satisfaction are the adjectives which describe the years I’ve spent at UniTN."""
+
+  [[days.events]]
+  time = "16:05"
+  title = "Coffee break"
+
+  [[days.events]]
+  time = "16:25"
+  speaker = "Dr. Alessandro Trenti"
+  affiliation = """Center for Digital Safety & Security
+AIT Austrian Institute of Technology
+Vienna, Austria"""
+  title = "From Nanolab to AIT: a journey from quantum photonics to quantum communication"
+  abstract = """In the first part of the presentation, I will give an overview of my research journey from the Nanolab group at the University of Trento, to the Walther group at the University of Vienna which then led to joining the Austrian Institute of Technology (AIT). I will then introduce the field of quantum cryptography, from the basic to an outlook of the developments in particular in the field of Quantum Key Distribution. In the last part, I will show experimental results of 2 research activities in the quantum group at AIT. Namely, we will discuss current miniaturization efforts of QKD components on chip and the investigation of beyond QKD cryptographic protocols enabling multi-party computation applications."""
+
+  [[days.events]]
+  time = "16:55"
+  speaker = "Dr. Massimo Borghi"
+  affiliation = """Quantum Photonics Laboratory (Qlab)
+Department of Physics "Alessandro Volta"
+University of Pavia
+Pavia, Italy"""
+  title = "Classical training of frequency-bin quantum extreme learning machines"
+  abstract = """Quantum extreme learning machines (QELMs) are promising computing architectures for classical and quantum machine-learning tasks, including the estimation of quantum state properties. Photonic implementations based on frequency-bin encoding are particularly appealing due to their high dimensionality, parallel information processing within a single spatial mode, and compatibility with standard telecom components.
+
+In this talk, I will present our latest results on frequency-bin QELMs based on electro-optic modulation, focusing on efficient training strategies and the relationship between reservoir connectivity and inference capabilities. First, I will introduce a paradigm shift that enables QELMs to be trained exclusively with intense classical fields while performing inference on previously unseen quantum states. This approach dramatically reduces acquisition times, improves signal-to-noise ratios, and mitigates finite-sampling noise arising from the probabilistic nature of quantum measurements.
+
+I will then demonstrate how this strategy enables efficient training of reservoirs to predict expectation values of arbitrary operators acting on single-qubit and qutrit states. In this context, I will investigate how reservoir connectivity governs inference capabilities, showing how multi-harmonic electro-optic phase modulation and dispersive optical elements respectively enhance QELM expressivity and improve the numerical stability of the training procedure."""
+
+  [[days.events]]
+  time = "17:25"
+  speaker = "Dr. Stefano Signorini"
+  affiliation = """Optoelectronics Group
+ICFO - The Institute of Photonic Sciences
+Castelldefels (Barcelona), Spain"""
+  title = "Integrated photonics at ICFO: the PIXEurope Pilot line and Undetected Photon sensing."
+  abstract = """In this talk, I will introduce PIXEurope, a major initiative led by ICFO and involving 20 partners across Europe. The initiative aims to establish a one-stop shop for the development of PIC-based prototypes, covering the entire value chain, from design to testing of fully packaged devices.
+
+I will then present one of our latest silicon photonics experiments, carried out in collaboration with NanoLab, focusing on phase sensing with undetected photons. In this experiment, we demonstrated phase sensing at 2 µm while detecting only photons in the O-band, using an SU(1,1) nonlinear interferometer based on intermodal spontaneous four-wave mixing (SFWM) waveguides."""
+
+[[days]]
+day = "Friday, 27 November 2026"
+date = "2026-11-27"
+room = "Room A108 - Polo Ferrari 1"
+
+  [[days.events]]
+  time = "08:50"
+  title = "Opening remarks"
+
+  [[days.events]]
+  time = "09:00"
+  speaker = "Prof. Paolo Bettotti"
+  affiliation = """Functional Interface Laboratory
+Department of Physics
+University of Trento
+Povo, Trento, Italy"""
+  title = "Nanoporous Silicon: From Light Tailoring to Sensing Applications"
+  abstract = """As one of the early researchers in the group, my work focused on mastering the electrochemical synthesis and physical properties of porous silicon-based nanomaterials. What began as an exploration into fundamental light manipulation quickly evolved into practical device engineering.
+
+Initially, I developed the technique to fabricate two-dimensional optical structures, using precise electrochemical etching to modulate porosity and realize high-quality photonic crystals structures. These strutures allow us to control photonic bandgaps and light propagation in ordered pore arrays.
+
+As our control over morphology and surface chemistry matured, we shifted towards applying both 1D and 2D porous networks to chemical and biological sensing. By exploiting the high surface-to-volume ratio, refractive index changes upon analyte infiltration, and structural optical response, we turned these photonic architectures into efficient sensing platforms.
+
+This talk walks through those foundational porous silicon milestones, tracing how early optical physics opened the door to modern nanostructured sensing technologies."""
+
+  [[days.events]]
+  time = "09:45"
+  speaker = "Dr. Francesco Riboli"
+  affiliation = """National Institute of Optics - Italian National Research Council (CNR-INO)
+& European Laboratory for Non-Linear Spectroscopy (LENS)
+Sesto Fiorentino (Firenze), Italy"""
+  title = "The Engineering of Imperfection: How I Learned to Stop Worrying and Love Disorder to Protect Data"
+
+  [[days.events]]
+  time = "10:30"
+  title = "Coffee break"
+
+  [[days.events]]
+  time = "10:45"
+  speaker = "Dr. Astghik Chalyan"
+  affiliation = "EYEST, Belgium"
+  title = "A Nonlinear Journey Through Photonics"
+  abstract = """Photonics outreach plays a key role in connecting science with society and inspiring future generations. In this talk, I will present outreach initiatives including the Photonics Explorer Kit, PHABLABS 4.0, and activities led by EYEST, which promote hands-on learning and make photonics accessible to students, teachers, and the general public. Over the past 15 years, the Photonics Explorer programme has distributed more than 4,800 educational kits in 43 countries, enabling thousands of learners to discover the science of light through practical experiments. The presentation will highlight how researchers and student chapters can use simple, engaging tools and demonstrations to communicate complex concepts, attract new audiences, and encourage more young people to pursue studies and careers in photonics."""
+
+  [[days.events]]
+  time = "11:15"
+  title = "Panel Discussion"
+
+  [[days.events]]
+  time = "13:30"
+  speaker = "Dr. Fernando Ramiro Manzano"
+  affiliation = """Instituto de Tecnología Química (ITQ)
+Universitat Politècnica de València (UPV) - Consejo Superior de Investigaciones Científicas (CSIC)
+Valencia, Spain"""
+  title = "Silicon Microsphere Resonators: From Phase Transitions to Super-Planckian Emission"
+
+  [[days.events]]
+  time = "13:50"
+  speaker = "Dr. Santanu Manna"
+  affiliation = """Dept. of EE
+Joint Faculty, CARE & Bharti School
+Indian Institute of Technology Delhi
+Hauz Khas, New Delhi, India"""
+  title = "Engineering III–V Heterostructures for Quantum Light Sources"
+
+  [[days.events]]
+  time = "14:10"
+  speaker = "Dr. Stefano Biasi"
+  affiliation = """Nanoscience Laboratory
+Department of Physics
+University of Trento
+Povo, Trento, Italy"""
+  title = "From Backscattering to Exceptional Points: Microresonator-Based Emulation of a Biological Neuron"
+
+  [[days.events]]
+  time = "14:30"
+  speaker = "Dr. Alessio Lugnan"
+  affiliation = """Nanoscience Laboratory
+Department of Physics
+University of Trento
+Povo, Trento, Italy"""
+  title = "Debate: Colour(future(photonics))"
+
+  [[days.events]]
+  time = "15:10"
+  title = "Coffee break"
+
+  [[days.events]]
+  time = "15:50"
+  speaker = "Dr. Clara Zaccaria"
+  affiliation = """Neurophotonics Group
+Department of Physics and Astronomy "Galileo Galilei"
+Padova Neuroscience Center
+University of Padova
+Padova, Italy"""
+  title = "The optical toolkit for brain investigation: from optogenetics to label-free imaging"
+  abstract = """The brain's vast functional and compositional complexity demands a versatile toolkit to study its inner workings. Light offers a uniquely versatile medium for interacting with neural tissue, enabling researchers to probe, manipulate, and track brain function with or without fluorescent labeling in both in vitro and in vivo experiments. This talk provides an overview of modern optical techniques for monitoring and modulating neural activity across basic research, clinical diagnostics, and translational technologies."""
+
+  [[days.events]]
+  time = "16:20"
+  speaker = "Dr. Ilya Auslender"
+  affiliation = """Nanoscience Laboratory
+Department of Physics
+University of Trento
+Povo, Trento, Italy"""
+  title = "From optics to biology: My journey in the Nanolab 2020-2026"
+  abstract = """In this talk, I will share my journey in the Nanoscience Laboratory, led by Prof. Pavesi, where I began my first postdoctoral position. I will reflect on the challenges I faced, including the transition to a new scientific field, the COVID-19 lockdown shortly after my arrival, and the experimental difficulties of working with biological cultures. Alongside these challenges, I will discuss my achievements, share my perspectives on the laboratory’s research environment and everyday life, and offer some thoughts on future directions."""
+
+  [[days.events]]
+  time = "17:00"
+  speaker = "Prof. Lorenzo Pavesi"
+  affiliation = """Nanoscience Laboratory
+Department of Physics
+University of Trento
+Povo, Trento, Italy"""
+  title = "How Do You Chase Photons with an Armata Brancaleone?"
