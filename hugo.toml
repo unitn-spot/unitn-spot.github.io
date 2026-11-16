@@ -30,7 +30,10 @@ icon = "images/logo.png"
 iconHeight = 75
 
 [params.assets]
-# favicon = "" When we will have a "round" logo place it here!
+favicon = "images/logo.png"
+favicon16x16 = "images/logo.png"
+favicon32x32 = "images/logo.png"
+apple_touch_icon = "images/logo.png"
 theme_color = "#000000"
 disableHLJS = true
 
