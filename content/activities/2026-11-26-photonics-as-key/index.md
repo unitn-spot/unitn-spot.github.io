@@ -9,9 +9,9 @@ alt = "Photonics as a Key Enabling Technology: Light up your Future"
 relative = true
 hiddenInSingle = true
 
-# [[Share]]
-# name = "instagram"
-# url = "https://www.instagram.com/p/DRebP3ejpFr"
+[[Share]]
+name = "instagram"
+url = "https://www.instagram.com/p/DRebP3ejpFr"
 +++
 
 ![Photonics as a Key Enabling Technology](logo-photonics.png)
