@@ -108,7 +108,7 @@ Sesto Fiorentino (Firenze), Italy"""
 
   [[days.events]]
   time = "10:45"
-  speaker = "Dr. Astghik Chalyan"
+  speaker = "Astghik Chalyan, MSc"
   affiliation = "EYEST, Belgium"
   title = "A Nonlinear Journey Through Photonics"
   abstract = """Photonics outreach plays a key role in connecting science with society and inspiring future generations. In this talk, I will present outreach initiatives including the Photonics Explorer Kit, PHABLABS 4.0, and activities led by EYEST, which promote hands-on learning and make photonics accessible to students, teachers, and the general public. Over the past 15 years, the Photonics Explorer programme has distributed more than 4,800 educational kits in 43 countries, enabling thousands of learners to discover the science of light through practical experiments. The presentation will highlight how researchers and student chapters can use simple, engaging tools and demonstrations to communicate complex concepts, attract new audiences, and encourage more young people to pursue studies and careers in photonics."""
