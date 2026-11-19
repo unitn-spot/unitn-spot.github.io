@@ -14,7 +14,7 @@ room = "Room A109 - Polo Ferrari 1"
 
   [[days.events]]
   time = "14:45"
-  speaker = "Dipl.Ing. Dr. Georg Pucker"
+  speaker = "Georg Pucker"
   affiliation = """Integrated and Quantum Optics (I&QO)
 Center for Sensors and Devices (FBK-SD)
 Bruno Kessler Foundation (FBK)
@@ -23,7 +23,7 @@ Trento, Italy"""
 
   [[days.events]]
   time = "15:25"
-  speaker = "Dr. Mher Ghulinyan"
+  speaker = "Mher Ghulinyan"
   affiliation = """Integrated and Quantum Optics (I&QO)
 Center for Sensors and Devices (FBK-SD)
 Bruno Kessler Foundation (FBK)
@@ -37,7 +37,7 @@ Trento, Italy"""
 
   [[days.events]]
   time = "16:25"
-  speaker = "Dr. Alessandro Trenti"
+  speaker = "Alessandro Trenti"
   affiliation = """Center for Digital Safety & Security
 AIT Austrian Institute of Technology
 Vienna, Austria"""
@@ -46,7 +46,7 @@ Vienna, Austria"""
 
   [[days.events]]
   time = "16:55"
-  speaker = "Dr. Massimo Borghi"
+  speaker = "Massimo Borghi"
   affiliation = """Quantum Photonics Laboratory (Qlab)
 Department of Physics "Alessandro Volta"
 University of Pavia
@@ -60,7 +60,7 @@ I will then demonstrate how this strategy enables efficient training of reservoi
 
   [[days.events]]
   time = "17:25"
-  speaker = "Dr. Stefano Signorini"
+  speaker = "Stefano Signorini"
   affiliation = """Optoelectronics Group
 ICFO - The Institute of Photonic Sciences
 Castelldefels (Barcelona), Spain"""
@@ -80,7 +80,7 @@ room = "Room A108 - Polo Ferrari 1"
 
   [[days.events]]
   time = "09:00"
-  speaker = "Prof. Paolo Bettotti"
+  speaker = "Paolo Bettotti"
   affiliation = """Functional Interface Laboratory
 Department of Physics
 University of Trento
@@ -96,7 +96,7 @@ This talk walks through those foundational porous silicon milestones, tracing ho
 
   [[days.events]]
   time = "09:45"
-  speaker = "Dr. Francesco Riboli"
+  speaker = "Francesco Riboli"
   affiliation = """National Institute of Optics - Italian National Research Council (CNR-INO)
 & European Laboratory for Non-Linear Spectroscopy (LENS)
 Sesto Fiorentino (Firenze), Italy"""
@@ -108,7 +108,7 @@ Sesto Fiorentino (Firenze), Italy"""
 
   [[days.events]]
   time = "10:45"
-  speaker = "Astghik Chalyan, MSc"
+  speaker = "Astghik Chalyan"
   affiliation = "EYEST, Belgium"
   title = "A Nonlinear Journey Through Photonics"
   abstract = """Photonics outreach plays a key role in connecting science with society and inspiring future generations. In this talk, I will present outreach initiatives including the Photonics Explorer Kit, PHABLABS 4.0, and activities led by EYEST, which promote hands-on learning and make photonics accessible to students, teachers, and the general public. Over the past 15 years, the Photonics Explorer programme has distributed more than 4,800 educational kits in 43 countries, enabling thousands of learners to discover the science of light through practical experiments. The presentation will highlight how researchers and student chapters can use simple, engaging tools and demonstrations to communicate complex concepts, attract new audiences, and encourage more young people to pursue studies and careers in photonics."""
@@ -119,7 +119,7 @@ Sesto Fiorentino (Firenze), Italy"""
 
   [[days.events]]
   time = "13:30"
-  speaker = "Dr. Fernando Ramiro Manzano"
+  speaker = "Fernando Ramiro Manzano"
   affiliation = """Instituto de Tecnología Química (ITQ)
 Universitat Politècnica de València (UPV) - Consejo Superior de Investigaciones Científicas (CSIC)
 Valencia, Spain"""
@@ -127,7 +127,7 @@ Valencia, Spain"""
 
   [[days.events]]
   time = "13:50"
-  speaker = "Dr. Santanu Manna"
+  speaker = "Santanu Manna"
   affiliation = """Dept. of EE
 Joint Faculty, CARE & Bharti School
 Indian Institute of Technology Delhi
@@ -136,7 +136,7 @@ Hauz Khas, New Delhi, India"""
 
   [[days.events]]
   time = "14:10"
-  speaker = "Dr. Stefano Biasi"
+  speaker = "Stefano Biasi"
   affiliation = """Nanoscience Laboratory
 Department of Physics
 University of Trento
@@ -145,7 +145,7 @@ Povo, Trento, Italy"""
 
   [[days.events]]
   time = "14:30"
-  speaker = "Dr. Alessio Lugnan"
+  speaker = "Alessio Lugnan"
   affiliation = """Nanoscience Laboratory
 Department of Physics
 University of Trento
@@ -158,7 +158,7 @@ Povo, Trento, Italy"""
 
   [[days.events]]
   time = "15:50"
-  speaker = "Dr. Clara Zaccaria"
+  speaker = "Clara Zaccaria"
   affiliation = """Neurophotonics Group
 Department of Physics and Astronomy "Galileo Galilei"
 Padova Neuroscience Center
@@ -169,7 +169,7 @@ Padova, Italy"""
 
   [[days.events]]
   time = "16:20"
-  speaker = "Dr. Ilya Auslender"
+  speaker = "Ilya Auslender"
   affiliation = """Nanoscience Laboratory
 Department of Physics
 University of Trento
@@ -179,7 +179,7 @@ Povo, Trento, Italy"""
 
   [[days.events]]
   time = "17:00"
-  speaker = "Prof. Lorenzo Pavesi"
+  speaker = "Lorenzo Pavesi"
   affiliation = """Nanoscience Laboratory
 Department of Physics
 University of Trento
